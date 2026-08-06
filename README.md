@@ -1,7 +1,7 @@
 <p style="text-align:center;" align="center">
   <a href="https://meshery.io/">
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meshery/meshery-istio/master/img/readme/meshery-logo-dark-text-side.svg"  width="70%" align="center" style="margin-bottom:20px;">readme/community.svg
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meshery/meshery-istio/master/img/readme/meshery-logo-dark-text-side.svg"  width="70%" align="center" style="margin-bottom:20px;">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meshery/meshery-istio/master/img/readme/meshery-logo-light-text-side.svg" width="70%" align="center" style="margin-bottom:20px;">
       <img alt="Shows an illustrated light mode meshery logo in light color mode and a dark mode meshery logo dark color mode." src="https://raw.githubusercontent.com/meshery/meshery-istio/master/img/readme/meshery-logo-light-text-side.svg" width="70%" align="center" style="margin-bottom:20px;">
     </picture>
@@ -17,6 +17,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mesheryio.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
 [![Slack](https://img.shields.io/badge/Slack-@meshery.svg?logo=slack)](https://slack.meshery.io/)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3564/badge)](https://bestpractices.coreinfrastructure.org/projects/3564)
+[![support: official](https://img.shields.io/badge/support-official-2f6feb)](https://github.com/meshery/meshery/blob/master/GOVERNANCE.md#extensions-githubcommeshery-extensions)
 
 </div>
 
